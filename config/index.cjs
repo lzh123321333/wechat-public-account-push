@@ -26,6 +26,7 @@ const USER_CONFIG = {
       useTemplateId: 'fea6TOynNkMz8BW4GUrfTpld0mHAIImNJy7xyzfC9eM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-01',
+      loveDate:'2023-12-25'
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
